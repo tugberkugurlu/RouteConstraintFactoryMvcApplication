@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteConstraintFactoryMvcApplication", "RouteConstraintFactoryMvcApplication\RouteConstraintFactoryMvcApplication.csproj", "{583E9934-5FE7-4211-A3AD-5F4CEBE8A3DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteConstraintFactoryMvcApplication.Test", "RouteConstraintFactoryMvcApplication.Test\RouteConstraintFactoryMvcApplication.Test.csproj", "{E5B137C7-5932-4A5E-9C7F-C3347656996E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{79637D99-1E3C-4ED8-87F4-98F9EFCA02F4}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		RouteConstraintFactoryMvcApplication.vsmdi = RouteConstraintFactoryMvcApplication.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = RouteConstraintFactoryMvcApplication.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{583E9934-5FE7-4211-A3AD-5F4CEBE8A3DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583E9934-5FE7-4211-A3AD-5F4CEBE8A3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583E9934-5FE7-4211-A3AD-5F4CEBE8A3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583E9934-5FE7-4211-A3AD-5F4CEBE8A3DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5B137C7-5932-4A5E-9C7F-C3347656996E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B137C7-5932-4A5E-9C7F-C3347656996E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B137C7-5932-4A5E-9C7F-C3347656996E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B137C7-5932-4A5E-9C7F-C3347656996E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
